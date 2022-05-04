@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @urjeetpatel
+- 👋 Hi, I’m @violentmagician
 - 👀 I’m interested in Python, Data Science, Machine Learning, FastApi
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on FastAPI
